@@ -1,0 +1,301 @@
+body{
+	font-family: comfortaa  ;
+}
+.header{
+	background-color: yellow ;
+	display:flex;
+	max-height: 271px ;
+}
+.head2{
+	padding-left:300px;
+	margin-top: 10px ;
+}
+.head3{
+	margin-left:80px;
+	margin-bottom:98px;
+	display: block ;
+}
+.head31{
+	color :red ;
+	font-size:30px ;
+	display:flex;
+	justify-content: center ;
+	
+}
+.head32{
+	color :white ;
+	background-color: red ;
+	
+}
+.head310{
+	font-size:50px;
+	font-weight: 800;
+}
+.head311{
+	margin-left: 30px ;
+	
+}
+.head32{
+	margin-top : 20px ;
+	padding-top: 13px;
+	padding-left:6px;
+	padding-right:6px;
+	padding-bottom:13px;
+}
+.head3{
+	text-align : center ;
+}
+.head21{
+	display:flex;
+	justify-content: space-between ;
+	margin-top:80px ;	
+}
+.head20{
+	margin-top: 50px ;
+}
+.head22{
+	display:flex;
+	font-size:13px ;
+	justify-content: space-between ;
+	margin-top : 14px ;
+}
+
+
+
+.zag1{
+	text-align : center ;
+	font-weight: 900;
+	margin-top:30px;
+	font-size:52px;
+}
+.zag2{
+	text-align : center ;
+	font-size:17px;
+	margin-top:10px;
+}
+
+.c3{
+	display: flex ;
+	justify-content: center ;
+	margin-bottom: 10px ;
+	
+}
+.zena{
+	font-size:17px;
+	padding-left:10px;
+}
+.m{
+	font-size:20px;
+	border:2px solid grey;
+	padding: 5px 17px 5px 17px;
+}
+.zena1{
+	color:gray;
+}
+.zena2{
+	color:red;
+}
+.bt{
+	color:white;
+	background-color:red;
+	margin-bottom:19px;
+	padding-top: 5px;
+	text-align: center;
+	margin-top: 10px ;
+	border-radius : 5px;
+	
+}
+.n{
+	text-align:center ;
+	margin-bottom: 10px ;
+	margin-top: 10px ;
+}
+.ts{
+	max-width:215px;
+	border:2px solid grey;
+	margin-right: 10px
+}
+
+.ts1{
+	max-width:215px;
+	border:2px solid grey;
+	margin-right: 10px
+}
+.f2{
+	display:flex ;
+	justify-content : center ;
+	margin-top:10px;
+} 
+.zagol{
+	color: grey ;
+	text-align: center ;
+	margin-top: 20px ;
+}
+.f4{
+	display:flex ;
+	margin-top: 20px;
+	
+	justify-content: center ;
+} 
+.roz{
+	background-color:red;
+	margin-top: 50px ;
+	box-shadow: 10px 7px 30px 5px black;
+}
+.roz10{
+	font-size:30px ;
+	color : white ;
+	margin-left: 20px ;
+	margin-top: 20px ;
+}
+.kyp{
+	color:yellow ;
+	margin-left: 20px ;
+	font-size:17px ;
+	margin-top: 10px ;
+}
+.sp{
+	color: white ;
+	margin-top: 10px ;
+	margin-left: 20px ;
+	font-size:15px ;
+	font-weight:bold ;
+	
+}
+.mart{
+	color: white ;
+	margin-top: 10px ;
+	margin-left: 20px ;
+	font-size:15px ;
+}
+.text{
+	color: white ;
+	margin-top: 10px ;
+	margin-left: 20px ;
+	font-size:15px ;
+}
+.roz{
+	display: flex ;
+}
+.ch2{
+	margin-top: 20px ;
+	margin-left: 580px ;
+}
+.you{
+	font-size:25px ;
+	font-weight:bold ;
+	margin-top: 30px ;
+	margin-left:30px ;
+}
+.yl{
+	background-color : yellow ;
+	padding-top: 15px ;
+	padding-bottom: 15px ;
+	padding-left: 23px ;
+	margin-top: 10px ;
+}
+.valera{
+	margin-left:30px ;
+	margin-top: 10px ;
+}
+
+.b{
+	color: white ;
+	background-color:green;
+	padding: 10px 30px 10px 30px ;
+	border: none ;
+}
+
+.q{
+	padding:15px ;
+	border: none ;
+	background-color: #f0e6e6 ;
+	max-width :600px ;
+	min-width : 300px ;
+	margin-bottom:15px ;
+	margin-top: 5px ;
+	box-shadow: 2px 1px 5px 0.5px black ;
+}
+
+hr{
+	height:0px ;
+	border: 0;
+	box-shadow:2px 2px 5px 0.5px black;
+	max-width :600px ;
+	min-width : 330px ;
+	margin-bottom:20px ;
+}
+
+
+.op{
+	color:green;
+}
+
+.forma{
+	margin-top:50px;
+	text-align: center ;
+}
+.fixed{
+	position:fixed
+}
+.fixed{
+	position: fixed;
+	bottom: 10px ;
+	left: 10px;
+	border:2px solid grey;
+	box-shadow:2px 2px 5px 0.5px black;
+}
+.fixed2{
+	position: fixed;
+	bottom: 18px ;
+	right: 10px;
+	border:2px solid grey;
+	box-shadow:2px 2px 5px 0.5px black;
+}
+.kart{
+	max-width:215px;
+	border:2px solid grey;
+	margin-right: 10px
+}
+.katalog{
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrapl;
+}
+.alert{
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	background-color: rgb(249, 226, 21);
+	transform: translate(-50%,-50%);
+	padding: 30px;
+	box-shadow: 10px 7px 30px 5px black;
+	z-index: 99 ;
+}
+.off{
+	position:absolute ;
+	top:15px ;
+	right: 15px;
+	z-index: 99;
+}
+.zat{
+	position: fixed ;
+	z-index: 98;
+	top: 0;
+	left :0;
+	right: 0 ;
+	bottom: 0 ;
+	background: rgba(0, 0, 0, 0.455);
+}
+.fok{
+	display: none;
+}
+.forma{
+	margin-bottom: 15px;
+}
+.stars{
+	text-align: center;
+	margin-top: 20px;
+	border-top: 2px solid black;
+	
+}
